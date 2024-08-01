@@ -23,7 +23,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/AbsensiPHPVersi2/';
+$config['base_url'] = 'http://localhost/AbsensiPHPVersi3/';
 
 // PENTING, JANGAN DI HAPUS (DEPLOYMENT) !!!!!!!!!!!!!!!!!!!!!
 // $config['base_url'] = 'https://absensi.ecomp.id/';
